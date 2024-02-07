@@ -1,6 +1,13 @@
 * {
     padding: 12px;
 }
+details img {
+    padding-bottom: 0;
+}
+
+details {
+    word-spacing: 5px;
+}
 
 .container {
     padding-top: 25px;
