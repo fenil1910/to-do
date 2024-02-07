@@ -1,6 +1,9 @@
 * {
     padding: 12px;
 }
+details img {
+    padding-bottom: 0px;
+}
 details {
     word-spacing: 5px;
 }
@@ -24,7 +27,7 @@ details a {
 .first {
     text-align: center;
     font-style: italic;
-    font-size: large;
+    padding-bottom: 0%;
     font-weight: bold;
 }
 
