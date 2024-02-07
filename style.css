@@ -9,6 +9,9 @@ details img {
 b {
     padding-left: 0;
 }
+h2 {
+    padding-bottom: 0;
+}
 details {
     word-spacing: 5px;
 }
