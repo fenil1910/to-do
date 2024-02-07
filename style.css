@@ -2,13 +2,17 @@
     padding: 12px;
 }
 details img {
-    padding-bottom: 0px;
+/*     padding-bottom: 0px; */
 }
 
 details {
     word-spacing: 5px;
 }
-
+a {
+    text-decoration: none;
+    font-style: italic;
+    font-weight: bold;
+}
 .container {
     padding-top: 25px;
     padding-left: 20px;
